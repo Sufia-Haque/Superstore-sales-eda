@@ -1,4 +1,8 @@
 # Superstore Sales Analysis
+Python EDA project analyzing 9,800+ Superstore sales records to identify profit drivers, regional trends and business recommendations
+
+
+---
 ## 📊 Dashboard Preview
 
 ![Category Analysis](chart1_category.png)
