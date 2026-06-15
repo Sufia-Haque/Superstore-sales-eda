@@ -1,14 +1,9 @@
 # Superstore Sales Analysis
-## Exploratory Data Analysis | Portfolio Project 1
 ## 📊 Dashboard Preview
 
 ![Category Analysis](chart1_category.png)
 ![Region Analysis](chart2_region.png)
 ![Sales Trend](chart4_trend.png)
-
-**Author:** SUFIA HAQUE
-**Tools:** Python, Pandas, Matplotlib, Seaborn  
-**Dataset:** Sample Superstore (Kaggle)
 
 
 ##  Business Questions Answered
